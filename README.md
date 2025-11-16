@@ -9,7 +9,7 @@ BitGym is just a few tools designed to help practicing mental conversion between
 
 ## Version history ##
 
-### 1.0 ###
+### 0.1 ###
 **November 16, 2025**. dec2bin and subtract.py.
 
 ## Todo ##
